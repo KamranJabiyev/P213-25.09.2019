@@ -1,0 +1,68 @@
+/* .btn {
+    color: white;
+    text-decoration: none;
+    border: 1px black solid;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.btn-gray {
+    background-color: gray;
+}
+
+.btn-green {
+    background-color: #4CAF50;
+}
+
+#twitter {
+    color: black;
+}
+
+p.test {
+    color: red;
+} */
+
+
+/* * {
+    background-color: red;
+} */
+
+
+/* p,
+.test {
+    background-color: red;
+} */
+
+
+/* #div p {
+    color: red;
+} */
+
+
+/* #div>p {
+    color: red;
+} */
+
+
+/* #div~p {
+    color: red;
+} */
+
+
+/* .test:hover {
+    color: red;
+} */
+
+
+/* a[target] {
+    color: rgba(255, 0, 0, 0);
+} */
+
+body {
+    height: 5000px;
+    background-image: url("../img/back.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+}
